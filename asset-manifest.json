@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/online_food/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/online_food/static/js/main.5072cfad.chunk.js",
+    "main.js.map": "/online_food/static/js/main.5072cfad.chunk.js.map",
+    "runtime-main.js": "/online_food/static/js/runtime-main.b0292fa6.js",
+    "runtime-main.js.map": "/online_food/static/js/runtime-main.b0292fa6.js.map",
+    "static/js/2.94e661c5.chunk.js": "/online_food/static/js/2.94e661c5.chunk.js",
+    "static/js/2.94e661c5.chunk.js.map": "/online_food/static/js/2.94e661c5.chunk.js.map",
+    "static/js/3.7eb6114d.chunk.js": "/online_food/static/js/3.7eb6114d.chunk.js",
+    "static/js/3.7eb6114d.chunk.js.map": "/online_food/static/js/3.7eb6114d.chunk.js.map",
+    "index.html": "/online_food/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/online_food/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.94e661c5.chunk.js.LICENSE.txt": "/online_food/static/js/2.94e661c5.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/online_food/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/online_food/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/online_food/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/online_food/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/online_food/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/online_food/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/online_food/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/online_food/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0292fa6.js",
+    "static/js/2.94e661c5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5072cfad.chunk.js"
+  ]
+}
